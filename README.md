@@ -7,7 +7,7 @@
 
 ### Reach out to me
 
-[<text align="left" >]My Portfolio Website<text/>][website]
+[<text align="left" >My Portfolio Website<text/>][website]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
