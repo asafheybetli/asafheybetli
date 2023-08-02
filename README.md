@@ -10,6 +10,8 @@
 [<text align="left" >My Portfolio Website<text/>][website]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
+# ozdmrmhmd7@gmail.com
+
 <br />
 <br />
 
