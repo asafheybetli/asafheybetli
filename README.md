@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Ronikox. :blush:
 
-## Fullstack Developer | Pharmacist
+## Fullstack Developer
 
 
 ### Reach out to me
